@@ -29,7 +29,19 @@
 ## License:
 
 <br> 
+
 <a href="https://raw.githubusercontent.com/devTeamrbx/MirrorRoblox/refs/heads/main/license/LICENSE.txt">
   <img src="https://cdn.discordapp.com/attachments/1516838947068575915/1516848717531975883/images.png?ex=6a3422f3&is=6a32d173&hm=efbf32c73ca92eb7174915f0f620d97bbeb04a18b0920a8132828b2737c74db8&"
     height="40" alt="License">
 </a>
+
+<br> 
+
+/*
+ * Copyright (C) 2026 HackerIP54. All rights reserved.
+ * 
+ * EXCEPTION: This specific file is NOT covered by the project's WTFPL license.
+ * Modification, distribution, or commercial use of this file is strictly 
+ * prohibited without explicit written permission from the author.
+ */
+
