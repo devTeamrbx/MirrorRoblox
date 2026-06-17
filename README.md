@@ -38,10 +38,10 @@
 <br> 
 
 
- ** Copyright (C) 2026 HackerIP54. All rights reserved. **
+ * Copyright (C) 2026 HackerIP54. All rights reserved. *
  
- ** EXCEPTION: This specific file is NOT covered by the project's WTFPL license. **
- ** Modification, distribution, or commercial use of this file is strictly - **
-** prohibited without explicit written permission from the author. **
+ * EXCEPTION: This specific file is NOT covered by the project's WTFPL license. *
+    * Modification, distribution, or commercial use of this file is strictly - *
+* prohibited without explicit written permission from the author. *
 
 
