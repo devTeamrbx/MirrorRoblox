@@ -23,4 +23,12 @@
   <img src="https://cdn.discordapp.com/attachments/1516838947068575915/1516839377777459211/Download_Button.svg.png?ex=6a341a41&is=6a32c8c1&hm=1e639a3700bfec6cc49f7f3b9f8be8fe8921dd3c57c8e35338a6bcfb59cc1c0f&" height="40" alt="Download">
 </a>
 
+<br>
 
+## License:
+
+<br> 
+<a href="https://raw.githubusercontent.com/devTeamrbx/MirrorRoblox/refs/heads/main/license/LICENSE.txt">
+  <img src="https://cdn.discordapp.com/attachments/1516838947068575915/1516848717531975883/images.png?ex=6a3422f3&is=6a32d173&hm=efbf32c73ca92eb7174915f0f620d97bbeb04a18b0920a8132828b2737c74db8&
+" height="40" alt="License">
+</a>
